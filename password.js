@@ -1,6 +1,7 @@
 'use strict';
-
-const ps = require("prompt-sync"); //npm i prompt-sync [ https://www.npmjs.com/package/prompt-sync  ]
+//npm i prompt-sync
+//[ https://www.npmjs.com/package/prompt-sync  ]
+const ps = require("prompt-sync");  
 const prompt = ps();
 
 const correct = '123';
